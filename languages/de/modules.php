@@ -1,5 +1,5 @@
 <?php
-
+1
 // BACKEND MODULE
 $GLOBALS['TL_LANG']['MOD']['feuerwehr'] = array('Feuerwehr', '');
 $GLOBALS['TL_LANG']['MOD']['missions'] = array('Einsatzverwaltung', 'Einsätze verwalten');
